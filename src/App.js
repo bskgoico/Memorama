@@ -22,7 +22,7 @@ const App = () => {
   }
 
   return (
-    <Board memoBlocks = {shuffledMemoBlocks} />
+    <Board memoBlocks={shuffledMemoBlocks} />
   );
 }
 
