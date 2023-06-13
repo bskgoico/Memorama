@@ -1,4 +1,4 @@
-import './MemoBoard.css';
+import './MemoBlock.css';
 
 const MemoBlock = ({memoBlock}) => {
     <div className='memo-block'>
